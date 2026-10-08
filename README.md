@@ -1,6 +1,20 @@
 # Hexapod Robot for Agricultural Applications
 This project is designed for small-scale farming environments and aims to establish a research platform for a hexapod robot that integrates motion control, environmental perception and a fertiliser-application mechanism, with a view to progressively developing functions for terrain recognition, foot placement planning and autonomous fertiliser application.
 
+## Live demonstration
+
+
+
+
+## Project images
+
+
+
+
+
+
+
+
 ## My Responsibilities
 Served as project leader, responsible for the construction of a six-legged robotic platform, sensor integration, the development of environmental perception capabilities, and the design of a compact fertiliser-dispensing mechanism.
 
