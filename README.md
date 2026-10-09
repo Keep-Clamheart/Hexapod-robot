@@ -9,26 +9,8 @@ This project is designed for small-scale farming environments and aims to establ
 <img width="800" height="600" alt="a2826d9b-8f5b-4879-a957-f3eefd67b0c5" src="https://github.com/user-attachments/assets/03df1f96-0c59-4d5f-9d29-e7c202bc0da5" />
 <img width="800" height="600" alt="4da0fd89-e3d2-4ac3-ad54-b78a311f295d" src="https://github.com/user-attachments/assets/0a6b3ce0-7b7f-42b3-a0c4-98ebbf840d4f" />
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Live demonstration
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/4e3ad6ef-5fe3-4f0e-8f11-66646356423a
 
 ## My Responsibilities
 Served as project leader, responsible for the construction of a six-legged robotic platform, sensor integration, the development of environmental perception capabilities, and the design of a compact fertiliser-dispensing mechanism.
