@@ -7,7 +7,8 @@ This project is designed for small-scale farming environments and aims to establ
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ec97c36f-7e3a-4093-8d46-1449878223be" />
 <img width="800" height="600" alt="d00f87ec-bf12-4c0c-8faa-2566f87636a8" src="https://github.com/user-attachments/assets/5318dad1-a738-42e4-9429-efaec1fdd16e" />
 <img width="800" height="600" alt="a2826d9b-8f5b-4879-a957-f3eefd67b0c5" src="https://github.com/user-attachments/assets/03df1f96-0c59-4d5f-9d29-e7c202bc0da5" />
-<img width="800" height="600" alt="4da0fd89-e3d2-4ac3-ad54-b78a311f295d" src="https://github.com/user-attachments/assets/0a6b3ce0-7b7f-42b3-a0c4-98ebbf840d4f" />
+<img width="800" height="600" alt="b30e7408-c39f-47cf-bab5-4cf67ca35a87" src="https://github.com/user-attachments/assets/9585c81d-3b3e-48b0-836e-1c1c91849e68" />
+
 
 ## Live demonstration
 https://github.com/user-attachments/assets/4e3ad6ef-5fe3-4f0e-8f11-66646356423a
