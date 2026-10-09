@@ -4,6 +4,8 @@ This project is designed for small-scale farming environments and aims to establ
 ## Project images
 <img width="728" height="580" alt="屏幕截图 2026-10-09 235741" src="https://github.com/user-attachments/assets/8e13ad76-4285-40e7-be08-fe6be45eac77" />
 <img width="638" height="364" alt="屏幕截图 2026-10-09 235619" src="https://github.com/user-attachments/assets/c79e29a1-d11d-4401-84af-3160bd6208eb" />
+<img width="550" height="617" alt="image" src="https://github.com/user-attachments/assets/5e0ec913-2b75-4171-b116-6e6783eb369e" />
+
 
 
 
